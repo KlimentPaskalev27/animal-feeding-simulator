@@ -11,7 +11,6 @@ namespace AnimalFeeding
 
             Foods[] dogFoods = { Foods.MEAT, Foods.BONES, Foods.CARTILAGE, Foods.PIZZA };
             Foods[] catFoods = { Foods.TUNA, Foods.MEAT, Foods.PIZZA };
-            Foods[] koalaFoods = { Foods.TUNA, Foods.MEAT, Foods.PIZZA };
 
             // How to edit constructor if you want to play around
             Dog wolfy = new Dog("Wolfy", // give it a name
